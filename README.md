@@ -1,5 +1,6 @@
-# Markov Text Generation
 [![Python application](https://github.com/U1186204/nlp_markov_text_generation/actions/workflows/python-app.yml/badge.svg)](https://github.com/U1186204/nlp_markov_text_generation/actions/workflows/python-app.yml)
+
+# Markov Text Generation
 A bare-bones implementation of a Markov chain model for natural language text generation.
 
 ## Overview
