@@ -9,6 +9,11 @@ Jelinek 1985 "Markov Source Modeling of Text Generation"
 import csv
 import nltk
 
+nltk.download('gutenberg')
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
+
 from mtg import finish_sentence
 
 
